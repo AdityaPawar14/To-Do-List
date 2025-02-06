@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "https://github.com/AdityaPawar14/To-Do-List.git"
+    "homepage": "https://github.com/AdityaPawar14/To-Do-List"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.1",
